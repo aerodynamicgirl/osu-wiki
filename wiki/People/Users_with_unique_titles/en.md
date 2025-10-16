@@ -336,6 +336,7 @@ These players were awarded their respective titles through either a crazy gamepl
 | ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | Played all Ranked osu! maps as of 27 April 2019 |
 | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | Was the [first person to unlock the *The Girl in the Forest* medal](https://osu.ppy.sh/community/forums/topics/662279) |
 | ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) | Medal Hunter | Was the [first person to unlock the *Internment* medal](https://twitter.com/osugame/status/1696007320663359800) |
+| ::{ flag=BR }:: [Dropinx](https://osu.ppy.sh/users/4687701) | Medal Hunter | Completed all osu! medals as of 16 October 2025 | 
 | ::{ flag=FI }:: [Tactic](https://osu.ppy.sh/users/6291386) | Prince of Disco | Achieved the maximum possible score on [Kenji Ninuma - DISCO★PRINCE](https://osu.ppy.sh/beatmapsets/1) for an unbeatable #1 leaderboard spot |
 | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | Limit Breaker | [Exceeded the 16-bit integer size limit of 32,767 for the performance points counter on osu!(stable)](https://osu.ppy.sh/home/changelog/stable40/20250306.2) |
 
