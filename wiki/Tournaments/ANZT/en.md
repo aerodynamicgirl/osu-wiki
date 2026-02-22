@@ -21,3 +21,5 @@ Index page for all of the Aus/NZ osu!standard Tournament series.
 - Aus/NZ osu!standard Tournament 11 - Summer
 - Aus/NZ osu!standard Tournament 11 - Winter
 - Aus/NZ osu!standard Tournament 12 - Summer
+- Aus/NZ osu!standard Tournament 12 - Winter
+- Aus/NZ osu!standard Tournament 13 - Summer
