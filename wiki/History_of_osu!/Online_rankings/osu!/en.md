@@ -285,7 +285,7 @@ While ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) was assumed to be the 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
 | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | *2021-04-08* | 2024-07-21 | [\[1\]](https://web.archive.org/web/20210408052501/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mrekk/) [\[3\]](https://old.reddit.com/r/osugame/comments/mmkaag/mrekk_is_now_1_surpassing_whitecat/) [\[4\]](https://osu.ppy.sh/scores/osu/3584256449) [\[5\]](https://www.reddit.com/r/osugame/comments/mmkajm/mrekk_colorsslash_colors_power_ni_omakasero/) [\[6\]](https://www.youtube.com/watch?v=xQLVNqfqaOE) |
-| ::{ flag=GB }:: [9MlCE](https://osu.ppy.sh/users/9269034) | 2024-07-21 | 2024-08-03 | [\[1\]](https://web.archive.org/web/20240722000045/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://web.archive.org/web/20240721223116/https://osu.ppy.sh/users/9269034) [\[3\]](https://ameobea.me/osutrack/user/9MlCE/) [\[4\]](https://old.reddit.com/r/osugame/comments/1e8yf1a/akolibed_is_now_1_passing_mrekk/) [\[5\]](https://osu.ppy.sh/scores/3198116312) [\[6\]](https://old.reddit.com/r/osugame/comments/1e8yf30/9mlce_akolibed_xi_over_the_top_expert_tynamo_1035/) |
+| ::{ flag=GB }:: [Akolibed (9MlCE)](https://osu.ppy.sh/users/9269034) | 2024-07-21 | 2024-08-03 | [\[1\]](https://web.archive.org/web/20240722000045/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://web.archive.org/web/20240721223116/https://osu.ppy.sh/users/9269034) [\[3\]](https://ameobea.me/osutrack/user/9MlCE/) [\[4\]](https://old.reddit.com/r/osugame/comments/1e8yf1a/akolibed_is_now_1_passing_mrekk/) [\[5\]](https://osu.ppy.sh/scores/3198116312) [\[6\]](https://old.reddit.com/r/osugame/comments/1e8yf30/9mlce_akolibed_xi_over_the_top_expert_tynamo_1035/) |
 | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 2024-08-03 | Present | [\[1\]](https://web.archive.org/web/20240803205932/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mrekk/) [\[3\]](https://old.reddit.com/r/osugame/comments/1ej89t6/mrekk_is_now_1_overtaking_akolbed/) [\[4\]](https://osu.ppy.sh/scores/3271280736) [\[5\]](https://old.reddit.com/r/osugame/comments/1ej89wa/mrekk_maximum_the_hormone_chuchu_lovely_munimuni/) [\[6\]](https://www.youtube.com/watch?v=T2pkgNvjAVE) |
 
 ## Number of reigns
@@ -318,7 +318,7 @@ The following is a list of the total number of times a player has reached the ra
 | ::{ flag=TW }:: [Uan](https://osu.ppy.sh/users/147623) | 2 |
 | ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150) | 2 |
 | ::{ flag=CN }:: [5231_Kinoko](https://osu.ppy.sh/users/181057) | 1 |
-| ::{ flag=GB }:: [9MlCE](https://osu.ppy.sh/users/9269034) | 1 |
+| ::{ flag=GB }:: [Akolibed](https://osu.ppy.sh/users/9269034) | 1 |
 | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | 1 |
 | ::{ flag=TW }:: [f0012979](https://osu.ppy.sh/users/12143) | 1 |
 | ::{ flag=JP }:: [Flute](https://osu.ppy.sh/users/211278) | 1 |
